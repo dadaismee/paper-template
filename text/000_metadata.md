@@ -2,10 +2,11 @@
 title: "Title of your awsome paper"
 subtitle: "subtitle"
 author: "Your name"
+abstract: "In this paper, I propose how to change the world for good."
 header-includes:
 date: 2023
 csl: service/apa.csl
-# keywords: 
+keywords: [one, two, three]
 
 # Formatting
 toc-title: "Contents"
