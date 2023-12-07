@@ -1,4 +1,0 @@
----
-author: 
-bibliography: [SURNAME].bib
----
