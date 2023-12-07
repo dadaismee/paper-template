@@ -1,3 +1,10 @@
+---
+author: your name
+title: My awesome paper
+subtitle: It is awesome indeed
+abstract: As you can get it, this is a quite awesome paper. Please, enjoy it.
+---
+
 ## Introduction
 Here is the citation @chalmers2009 and in brackets [@chalmers2009]. This is a footnote[^1]. This is how you reference an image (@fig:test). 
 And this is how you reference a text part (@sec:main).
