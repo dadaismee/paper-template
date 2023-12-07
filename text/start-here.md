@@ -5,7 +5,7 @@ And this is how you reference a text part (@sec:main).
 ## Main part {#sec:main}
 This is a citation with page — [@chalmers2009, 2]. This is an image:
 
-![Image test](images/img.jpeg){#fig:test}
+![Image test](images/img.png){#fig:test}
 
 > Quote example. *And italics example.*
 
@@ -18,7 +18,6 @@ A bullet list:
 ### Subsection
 
 ## Conclusion {-}
-\newpage
 
 ## References
 
